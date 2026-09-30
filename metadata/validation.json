@@ -1,0 +1,48 @@
+{
+  "validated_at_utc": "2026-09-29T13:37:11.715695+00:00",
+  "release_status": "accepted_with_documented_class_coverage_limitations",
+  "data_integrity_status": "pass",
+  "coverage_status": "two_subjects_missing_one_action_class_each",
+  "summary": {
+    "dataset": "UpperMyo",
+    "version": "1.0",
+    "subjects": 24,
+    "records": 259,
+    "csv_files": 518,
+    "png_files": 1554,
+    "files": 2072,
+    "total_bytes": 3709400224,
+    "action_trials": 1295,
+    "full_record_samples": 18130000,
+    "class_record_counts": {
+      "wns": 33,
+      "wq": 32,
+      "wqq": 33,
+      "wsz": 33,
+      "wwz": 33,
+      "zq": 32,
+      "zqq": 32,
+      "zsz": 31
+    }
+  },
+  "data_checks_passed": [
+    "Expected subjects and consecutive record numbers",
+    "Two CSV and six valid PNG files per record",
+    "Expected CSV header and finite numeric values",
+    "70000 samples per full recording: 20000 action and 50000 background",
+    "Five 4000-sample trials and five !!! markers per valid CSV",
+    "Timestamp increments of 1000 within continuous sequences",
+    "Identical action signals in paired full and valid CSVs"
+  ],
+  "coverage_findings": [
+    {
+      "location": "subject_4",
+      "issue": "Subject does not cover all eight action classes"
+    },
+    {
+      "location": "subject_23",
+      "issue": "Subject does not cover all eight action classes"
+    }
+  ],
+  "publication_decision": "Publish with the two documented absent subject/class combinations."
+}

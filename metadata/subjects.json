@@ -1,0 +1,360 @@
+[
+  {
+    "subject": 1,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 2,
+      "zqq": 2,
+      "zsz": 2
+    }
+  },
+  {
+    "subject": 2,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 3,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 3,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 4,
+    "records": 10,
+    "action_trials": 50,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1
+    }
+  },
+  {
+    "subject": 5,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 6,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 7,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 2,
+      "zqq": 2,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 8,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 9,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 2,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 10,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 11,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 2,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 12,
+    "records": 10,
+    "action_trials": 50,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 2,
+      "zqq": 1,
+      "zsz": 2
+    }
+  },
+  {
+    "subject": 13,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 2,
+      "wwz": 2,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 2
+    }
+  },
+  {
+    "subject": 14,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 15,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 1,
+      "zqq": 2,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 16,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 2,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 2,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 17,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 2,
+      "wwz": 2,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 18,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 2,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 19,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 2,
+      "zq": 2,
+      "zqq": 1,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 20,
+    "records": 10,
+    "action_trials": 50,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 2,
+      "zsz": 2
+    }
+  },
+  {
+    "subject": 21,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 3,
+      "zsz": 2
+    }
+  },
+  {
+    "subject": 22,
+    "records": 11,
+    "action_trials": 55,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 2,
+      "zsz": 3
+    }
+  },
+  {
+    "subject": 23,
+    "records": 10,
+    "action_trials": 50,
+    "class_record_counts": {
+      "wq": 2,
+      "wqq": 1,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 2,
+      "zqq": 2,
+      "zsz": 1
+    }
+  },
+  {
+    "subject": 24,
+    "records": 10,
+    "action_trials": 50,
+    "class_record_counts": {
+      "wns": 1,
+      "wq": 1,
+      "wqq": 2,
+      "wsz": 1,
+      "wwz": 1,
+      "zq": 1,
+      "zqq": 1,
+      "zsz": 2
+    }
+  }
+]

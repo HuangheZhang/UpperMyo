@@ -1,0 +1,56 @@
+{
+  "name": "UpperMyo",
+  "version": "1.0",
+  "repository": "https://github.com/HuangheZhang/UpperMyo",
+  "data_directory": "六通道数据集",
+  "subjects": 24,
+  "records": 259,
+  "action_trials": 1295,
+  "channels": 6,
+  "sampling_rate_hz": 1000,
+  "csv_files": 518,
+  "png_files": 1554,
+  "total_data_bytes": 3709400224,
+  "labels": {
+    "zqq": {
+      "english": "Elbow flexion",
+      "chinese": "肘屈曲"
+    },
+    "zsz": {
+      "english": "Elbow extension",
+      "chinese": "肘伸展"
+    },
+    "wns": {
+      "english": "Wrist ulnar deviation",
+      "chinese": "腕内收"
+    },
+    "wwz": {
+      "english": "Wrist radial deviation",
+      "chinese": "腕外展"
+    },
+    "wqq": {
+      "english": "Wrist flexion",
+      "chinese": "腕屈曲"
+    },
+    "wsz": {
+      "english": "Wrist extension",
+      "chinese": "腕伸展"
+    },
+    "wq": {
+      "english": "Hand closing",
+      "chinese": "握拳"
+    },
+    "zq": {
+      "english": "Hand opening",
+      "chinese": "展拳"
+    }
+  },
+  "known_missing_classes": {
+    "subject_4": [
+      "zsz"
+    ],
+    "subject_23": [
+      "wns"
+    ]
+  }
+}
