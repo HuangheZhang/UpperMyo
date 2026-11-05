@@ -1,4 +1,4 @@
-# UpperMyo
+# UpperMyo v1.0
 
 UpperMyo is a six-channel upper-limb surface electromyography (sEMG) dataset containing 264 recordings from 24 participants, covering eight upper-limb actions. The recordings are stored in `六通道数据集/`.
 
